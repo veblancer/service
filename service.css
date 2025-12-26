@@ -6,6 +6,9 @@
     padding: 0px 0px 0px 320px;
     letter-spacing: 10px;
 }
+a{
+    text-decoration:none;
+}
 
 
 .bu{
@@ -44,3 +47,4 @@
     border-radius: 10px;
     padding: 0 70px;
 }
+
