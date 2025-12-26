@@ -1,0 +1,46 @@
+.icon , .bu , .text{
+    display: inline-block;
+    vertical-align: middle;
+}
+.text{
+    padding: 0px 0px 0px 320px;
+    letter-spacing: 10px;
+}
+
+
+.bu{
+    padding: 0px 0px 0px 320px;
+    text-align:center;
+    word-spacing: 15px;
+}
+.tip{
+    color: black;
+}
+.main, .logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+.main{
+    padding: 0 60px 0 60px;
+    margin-top: 50px;
+    width: 50%;
+    justify-content: left;
+}
+.logo{
+    padding: 0 60px 0 60px;
+    margin-top: 50px;
+}
+.ser{
+    color:dodgerblue;
+}
+.but{
+   color: white;
+   width: 10px;
+   height: 10px; 
+}
+.pa{
+     background-color: dodgerblue;
+    height: 60px;
+    border-radius: 10px;
+    padding: 0 70px;
+}
