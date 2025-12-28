@@ -1,5 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizeing:border-box;
+}
 .icon , .bu , .text{
-    display: inline-block;
+    display:flex;
+    /* display: inline-block; */
     vertical-align: middle;
 }
 .text{
@@ -89,6 +95,7 @@ a{
         align-items:center;
     }
 }
+
 
 
 
