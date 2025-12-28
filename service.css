@@ -76,7 +76,7 @@ a{
             text-align: left;
             align-items: left;
             align-content: center;
-            margin-left: 10%;
+            margin-left: 13%;
         
         }
         .tip{
@@ -97,7 +97,7 @@ a{
         }
         h1{
             margin-left: 5%;
-            font-size:medium;
+            font-size:large;
         }
         .gogo{
            width:76vw;
@@ -105,13 +105,14 @@ a{
            margin-left: 2%;
         }
         .pa{
-            margin-left: 10%;
+            margin-left: 12%;
             width: 280px;
             align-items: center;
             justify-content: center;
             text-align: center;
         }
 }
+
 
 
 
