@@ -1,47 +1,55 @@
 *{
     margin:0;
     padding:0;
-    box-sizeing:border-box;
+    box-sizing: border-box;
 }
-.icon , .bu , .text{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    text-align:center;
-    align-content:center;
-    /* display: inline-block; */
+.icon {
+      display:inline-block;
+      margin-top: 5px;
+      margin-left: 55px;
+}
+ .bu {
+   display: flex;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    display: inline-block;
+    vertical-align: middle;
+     word-spacing: 35px;
+     font-size:large;
+     font-weight: bold;
+    
+ }
+ .text{
+    display: flex;
+    margin-left: 29%;
+    margin-bottom: 5%;
+    display: inline-block;
     vertical-align: middle;
 }
-.text{
-    padding: 0px 0px 0px 320px;
-    letter-spacing: 10px;
-}
+
 a{
-    text-decoration:none;
-}
-
-
-.bu{
-    padding: 0px 0px 0px 320px;
-    text-align:center;
-    word-spacing: 15px;
-}
-.tip{
+    text-decoration: none;
     color: black;
 }
+
 .main, .logo{
     display: inline-block;
     vertical-align: middle;
 }
 .main{
-    padding: 0 60px 0 60px;
-    margin-top: 50px;
-    width: 50%;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 4%;
+    width: 40%;
     justify-content: left;
 }
 .logo{
     padding: 0 60px 0 60px;
     margin-top: 50px;
+}
+.gogo{
+    width:40vw;
+    height:45vh;
 }
 .ser{
     color:dodgerblue;
@@ -56,49 +64,58 @@ a{
     height: 60px;
     border-radius: 10px;
     padding: 0 70px;
+    margin-left: 5%;
 }
-@media(width <= 400px){
-    .icon{
-          width:50vw;
-    }
-    .bu{
-        width:50vw;
-        display:flex;
-        justify-content:center;
-        text-align:center;
-        align-items:center;
-    }
-    .text{
-         width:100vw;
-        display:flex;
-        justify-content:center;
-        text-align:center;
-        align-items:center;
-        margion:0;
+@media(max-width: 560px ){
+        .icon{
+             margin-left: 45%;
+        }
+        .bu{
+            display: flex;
+            justify-content: left;
+            text-align: left;
+            align-items: left;
+            align-content: center;
+            margin-left: 30%;
         
-    }
-    .main{
-         width:50vw;
-        display:flex;
-        justify-content:center;
-        text-align:center;
-        align-items:center;
-    }
-    .logo{
-        width:100vw;
-        display:flex;
-        justify-content:center;
-        text-align:center;
-        align-items:center;
-    }
-    #pad{
-        width:100vw;
-        display:flex;
-        justify-content:center;
-        text-align:center;
-        align-items:center;
-    }
+        }
+        .tip{
+            margin-left: 3px;
+            margin-right: 3px;
+        }
+        
+        .text{
+            text-align: left;
+            align-items: left;
+            align-content: center;
+            margin-left: 35%;
+        }
+        .main{
+            width: 80vw;
+            text-align: justify;
+            margin-left:15%;
+        }
+        h1{
+            margin-left: 20%;
+        }
+        .gogo{
+           width:80vw;
+           vertical-align: middle;
+           margin-left: 6%;
+        }
+        .pa{
+            margin-left: 25%;
+            width: 300px;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
 }
+
+
+
+
+
 
 
 
