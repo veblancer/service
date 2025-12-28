@@ -52,7 +52,7 @@ a{
           width:50vw;
     }
     .bu{
-        width:100vw;
+        width:50vw;
         display:flex;
         justify-content:center;
         text-align:center;
@@ -68,7 +68,7 @@ a{
         
     }
     .main{
-         width:100vw;
+         width:50vw;
         display:flex;
         justify-content:center;
         text-align:center;
@@ -89,6 +89,7 @@ a{
         align-items:center;
     }
 }
+
 
 
 
