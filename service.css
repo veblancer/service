@@ -96,7 +96,7 @@ a{
             margin-left:15%;
         }
         h1{
-            margin-left: 15%;
+            margin-left: 25%;
             font-size:large;
         }
         .gogo{
@@ -105,7 +105,7 @@ a{
            margin-left: 2%;
         }
         .pa{
-            margin-left: 21%;
+            margin-left: 31%;
             margin-top:3%;
             width: 280px;
             align-items: center;
@@ -113,6 +113,7 @@ a{
             text-align: center;
         }
 }
+
 
 
 
