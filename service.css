@@ -80,8 +80,8 @@ a{
         
         }
         .tip{
-            margin-left: 2px;
-            margin-right: 2px;
+            margin-left: 3px;
+            margin-right: 3px;
         }
         
         .text{
@@ -96,7 +96,7 @@ a{
             margin-left:15%;
         }
         h1{
-            margin-left: 10%;
+            margin-left: 12%;
             font-size:large;
         }
         .gogo{
@@ -105,13 +105,14 @@ a{
            margin-left: 2%;
         }
         .pa{
-            margin-left: 15%;
+            margin-left: 18%;
             width: 280px;
             align-items: center;
             justify-content: center;
             text-align: center;
         }
 }
+
 
 
 
