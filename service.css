@@ -76,12 +76,12 @@ a{
             text-align: left;
             align-items: left;
             align-content: center;
-            margin-left: 20%;
+            margin-left: 10%;
         
         }
         .tip{
-            margin-left: 3px;
-            margin-right: 3px;
+            margin-left: 2px;
+            margin-right: 2px;
         }
         
         .text{
@@ -96,22 +96,23 @@ a{
             margin-left:15%;
         }
         h1{
-            margin-left: 10%;
+            margin-left: 5%;
             font-size:medium;
         }
         .gogo{
-           width:80vw;
+           width:76vw;
            vertical-align: middle;
-           margin-left: 4%;
+           margin-left: 2%;
         }
         .pa{
-            margin-left: 20%;
-            width: 300px;
+            margin-left: 10%;
+            width: 280px;
             align-items: center;
             justify-content: center;
             text-align: center;
         }
 }
+
 
 
 
