@@ -52,14 +52,14 @@ a{
           width:50vw;
     }
     .bu{
-        width:100%;
+        width:100vw;
         display:flex;
         justify-content:center;
         text-align:center;
         align-items:center;
     }
     .text{
-         width:100%;
+         width:100vw;
         display:flex;
         justify-content:center;
         text-align:center;
@@ -67,27 +67,28 @@ a{
         
     }
     .main{
-         width:100%;
+         width:100vw;
         display:flex;
         justify-content:center;
         text-align:center;
         align-items:center;
     }
     .logo{
-        width:100%;
+        width:100vw;
         display:flex;
         justify-content:center;
         text-align:center;
         align-items:center;
     }
     #pad{
-        width:100%;
+        width:100vw;
         display:flex;
         justify-content:center;
         text-align:center;
         align-items:center;
     }
 }
+
 
 
 
