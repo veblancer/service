@@ -47,4 +47,16 @@ a{
     border-radius: 10px;
     padding: 0 70px;
 }
+@media (max-width: 786px){
+    .icon{
+        min-height: 50vh;
+    }
+
+    .bu{
+        padding: 10px 0;
+        text-align: center;
+    }
+
+}
+
 
